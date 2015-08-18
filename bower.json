@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "0.0.0",
+  "homepage": "https://github.com/purpletianjing/package",
+  "authors": [
+    "purple <purpletianjing@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
